@@ -1,0 +1,13 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/Xenlism-Nixos/theme.txt",
+        "display_mode": "GUI",
+        "ventoy_left": "0%",
+        "ventoy_top": "3%",
+        "ventoy_color": "#3578e5"
+    },
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/X" }
+    ]
+}
